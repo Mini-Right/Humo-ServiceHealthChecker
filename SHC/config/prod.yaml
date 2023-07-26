@@ -1,0 +1,7 @@
+DB:
+  DMG:
+    host: pc-2zeqo17qko6eh88ax-1.mysql.polardb.rds.aliyuncs.com
+    port: 3306
+    user: anyu
+    password: anyu123456@
+    database: shc
